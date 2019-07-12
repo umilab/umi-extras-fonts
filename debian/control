@@ -1,0 +1,20 @@
+Source: umi-extras-fonts
+Section: misc
+Priority: optional
+Maintainer: UMI Packages Builder <packages@umilab.org>
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 8),
+
+Package: umi-extras-fonts
+Architecture: all
+Depends: ${misc:depends}
+Recommends: umi-extras-booked-fonts
+Description: UMI extras fonts 
+ This package is an extras open fonts picked for UMI OS.
+
+Package: umi-extras-booked-fonts
+Architecture: all
+Depends: ${misc:depends}
+Recommends: ttf-mscorefonts-installer
+Description: UMI extras booked fonts 
+ This package is an extras reserved fonts picked for UMI OS.
