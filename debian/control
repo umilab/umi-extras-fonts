@@ -7,7 +7,8 @@ Build-Depends: debhelper (>= 8),
 
 Package: umi-extras-fonts
 Architecture: all
-Recommends: umi-extras-booked-fonts
+Recommends: umi-extras-symbol-fonts 
+Suggests: umi-extras-booked-fonts
 Description: UMI extras fonts 
  This package is an extras open fonts picked for UMI OS.
 
@@ -15,4 +16,9 @@ Package: umi-extras-booked-fonts
 Architecture: all
 Recommends: ttf-mscorefonts-installer
 Description: UMI extras booked fonts 
- This package is an extras reserved fonts picked for UMI OS.
+ This package is an extras reserve fonts picked for UMI OS.
+
+Package: umi-extras-symbol-fonts
+Architecture: all
+Description: UMI extras symbol fonts 
+ This package is an extras symbol fonts picked for UMI OS.
