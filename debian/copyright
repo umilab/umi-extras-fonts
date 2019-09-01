@@ -26,3 +26,7 @@ License: OFL-1.1
 Files: debian/*
 Copyright: 2019 UMI.Lab
 License: GPL-3+
+
+Files: booked_fonts/*, symbol_fonts/*
+Copyright: each related owning corporate and authors
+License: EULA from owning corporates and authors
