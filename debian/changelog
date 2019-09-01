@@ -1,3 +1,9 @@
+umi-extras-fonts (2019.09.01) unstable; urgency=medium
+
+  * add some vista TTF as booked fonts for better MS docs support
+
+ -- UMI Packages Builder <packages@umilab.org>  Sun, 01 Sep 2019 11:00:00 +0100
+
 umi-extras-fonts (2019.07.22) unstable; urgency=medium
 
   * add some symbol fonts
